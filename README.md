@@ -6,15 +6,15 @@
 
 ## How to run
 1. Code > Download ZIP을 눌러 이 레포지토리를 다운받아 압축을 풉니다.
-2. 모델 가중치를 [링크](https://drive.google.com/file/d/1hT_dZ_X-YihOSlkL-cFT_QiryjVvKI2i/view?usp=sharing)에서 다운받아 압축을 풀어 본 폴더로 옯깁니다.
+2. 모델 가중치를 [링크]에서 다운받아 압축을 풀어 본 폴더로 옯깁니다.
 3. `python -m venv .venv`로 Python 가상환경을 생성합니다.
 4. `.venv/Scripts/activate`로 가상환경을 활성화시킵니다.
 5. `pip install transformers torch`로 패키지를 설치합니다.
 6. `python main.py`로 `main.py`를 실행합니다.
 
 ## 가이드 영상
-[개발환경 세팅](https://youtu.be/H7qE2898fu0)
-[코드 실행](https://youtu.be/GL2yQoRRdWY)
+[개발환경 세팅]
+[코드 실행]
 
 ---
 
@@ -26,7 +26,7 @@ AI chatbots are applied on various tasks such as customer service or idling. Cha
 
 ## How to run
 1. Click Code > Download ZIP to download this repository and unzip it.
-2. Download model weights from [here](https://drive.google.com/file/d/1hT_dZ_X-YihOSlkL-cFT_QiryjVvKI2i/view?usp=sharing), unzip it and add it to the current directory.
+2. Download model weights from [here], unzip it and add it to the current directory.
 3. Run `python -m venv .venv` to create a Python virtual environment.
 4. Run `.venv/Scripts/activate` to activate the virtual environment.
 5. Run `pip install transformers torch` to install packages.
